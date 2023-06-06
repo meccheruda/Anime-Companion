@@ -143,9 +143,9 @@ AI機能: 自然言語
 # ローカルでの動作方法
 以下のコマンドを順に実行
 
-git clone http
+git clone https://github.com/meccheruda/Anime-Companion
 ## クローンしたアプリに移動
-% cd 
+% cd Anime-Companion
 ## Gemをインストール
 % bundle install
 ## JavaScriptのパッケージをインストール
